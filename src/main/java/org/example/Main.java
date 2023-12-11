@@ -6,7 +6,6 @@ import com.amazonaws.services.sqs.model.DeleteMessageRequest;
 import com.amazonaws.services.sqs.model.Message;
 import com.amazonaws.services.sqs.model.ReceiveMessageRequest;
 import service.Sender;
-
 import java.util.List;
 
 public class Main {
